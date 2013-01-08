@@ -10,3 +10,5 @@ Sorry [Treehouse](http://teamtreehouse.com/), I guess you won't like that very m
 
 
 CSS comes from a [Bootstrap](http://twitter.github.com/bootstrap/) theme made by [Boootswatch](http://www.bootswatch.com) called ['Readable'](http://bootswatch.com/readable/) and served by [BootstrapCDN](http://www.bootstrapcdn.com)
+
+Live version : [http://treehouseshownotes.patrickbateman.net/](http://treehouseshownotes.patrickbateman.net/)
