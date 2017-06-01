@@ -10,5 +10,3 @@ Dont sue me [Treehouse](http://teamtreehouse.com/) :) even though I guess you wo
 
 
 This page has been built with [Bootstrap](http://twitter.github.com/bootstrap/). Themes have been crafted by [Boootswatch](http://www.bootswatch.com) and served by [BootstrapCDN](http://www.bootstrapcdn.com). They can now be choosen via a style switcher on the top navigation bar.
-
-Live version : **[http://treehouseshownotes.patrickbateman.net/](http://treehouseshownotes.patrickbateman.net/)**
